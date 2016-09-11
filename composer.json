@@ -8,7 +8,7 @@
     "mvc",
     "framework",
     "php"
-    ],
+  ],
   "authors": [
     {
       "name": "Michael Hall",
@@ -18,6 +18,6 @@
   "require": {
     "bluemvc/bluemvc-core": "dev-master",
     "bluemvc/bluemvc-fakes": "dev-master",
-	"datatypes/datatypes": "dev-master"
+    "datatypes/datatypes": "dev-master"
   }
 }
