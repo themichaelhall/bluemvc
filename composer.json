@@ -1,0 +1,23 @@
+{
+  "name": "bluemvc/bluemvc",
+  "description": "The BlueMvc PHP framework",
+  "homepage": "https://bluemvc.com/",
+  "license": "MIT",
+  "keywords": [
+    "blue",
+    "mvc",
+    "framework",
+    "php"
+    ],
+  "authors": [
+    {
+      "name": "Michael Hall",
+      "homepage": "https://michaelhall.se/"
+    }
+  ],
+  "require": {
+    "bluemvc/bluemvc-core": "dev-master",
+    "bluemvc/bluemvc-fakes": "dev-master",
+	"datatypes/datatypes": "dev-master"
+  }
+}
