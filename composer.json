@@ -17,7 +17,8 @@
   ],
   "require": {
     "bluemvc/bluemvc-core": "dev-master",
-    "bluemvc/bluemvc-fakes": "dev-master"
+    "bluemvc/bluemvc-fakes": "dev-master",
+    "bluemvc/bluemvc-twig": "dev-master"
   },
   "minimum-stability": "dev",
   "prefer-stable": true
