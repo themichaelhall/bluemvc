@@ -16,11 +16,9 @@
     }
   ],
   "require": {
-    "bluemvc/bluemvc-core": "dev-master",
-    "bluemvc/bluemvc-fakes": "dev-master",
-    "bluemvc/bluemvc-twig": "dev-master",
-    "bluemvc/bluemvc-forms": "dev-master"
-  },
-  "minimum-stability": "dev",
-  "prefer-stable": true
+    "bluemvc/bluemvc-core": "1.0.0",
+    "bluemvc/bluemvc-fakes": "1.0.0",
+    "bluemvc/bluemvc-twig": "1.0.0",
+    "bluemvc/bluemvc-forms": "1.0.0"
+  }
 }
