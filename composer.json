@@ -1,6 +1,7 @@
 {
   "name": "bluemvc/bluemvc",
   "description": "The BlueMvc PHP framework",
+  "type": "metapackage",
   "homepage": "https://bluemvc.com/",
   "license": "MIT",
   "keywords": [
@@ -16,9 +17,9 @@
     }
   ],
   "require": {
-    "bluemvc/bluemvc-core": "1.0.0",
-    "bluemvc/bluemvc-fakes": "1.0.0",
-    "bluemvc/bluemvc-twig": "1.0.0",
-    "bluemvc/bluemvc-forms": "1.0.0"
+    "bluemvc/bluemvc-core": "~1.0.0",
+    "bluemvc/bluemvc-fakes": "~1.0.0",
+    "bluemvc/bluemvc-twig": "~1.0.0",
+    "bluemvc/bluemvc-forms": "~1.0.0"
   }
 }
