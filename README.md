@@ -16,6 +16,7 @@ This framework consists of the following packages:
 - [bluemvc-fakes](https://github.com/themichaelhall/bluemvc-fakes) - Fake core classes
 - [bluemvc-twig](https://github.com/themichaelhall/bluemvc-twig) - Twig view renderer
 - [bluemvc-forms](https://github.com/themichaelhall/bluemvc-forms) - Forms extension
+- [bluemvc-api](https://github.com/themichaelhall/bluemvc-api) - API extension
 
 ## Requirements
 
