@@ -1,3 +1,5 @@
+## Unreleased
+
 ## [1.1.0] - 2018-04-29
 - Upgraded [bluemvc-core](https://github.com/themichaelhall/bluemvc-core) dependecy from 1.0 to 1.1
 - Upgraded [bluemvc-fakes](https://github.com/themichaelhall/bluemvc-fakes) dependecy from 1.0 to 1.1
