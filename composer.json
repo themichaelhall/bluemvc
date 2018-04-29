@@ -21,6 +21,6 @@
     "bluemvc/bluemvc-fakes": "~1.1.0",
     "bluemvc/bluemvc-twig": "~1.1.0",
     "bluemvc/bluemvc-forms": "~1.1.0",
-	"bluemvc/api": "~1.1.0"
+    "bluemvc/bluemvc-api": "~1.1.0"
   }
 }
