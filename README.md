@@ -20,7 +20,7 @@ This framework consists of the following packages:
 
 ## Requirements
 
-- PHP >= 5.6
+- PHP >= 7.1
 
 ## Install with Composer
 
