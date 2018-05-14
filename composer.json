@@ -17,10 +17,10 @@
     }
   ],
   "require": {
-    "bluemvc/bluemvc-core": "dev-develop",
-    "bluemvc/bluemvc-fakes": "dev-develop",
-    "bluemvc/bluemvc-twig": "dev-develop",
-    "bluemvc/bluemvc-forms": "dev-develop",
-    "bluemvc/bluemvc-api": "dev-develop"
+    "bluemvc/bluemvc-core": "~2.0.0",
+    "bluemvc/bluemvc-fakes": "~2.0.0",
+    "bluemvc/bluemvc-twig": "~2.0.0",
+    "bluemvc/bluemvc-forms": "~2.0.0",
+    "bluemvc/bluemvc-api": "~2.0.0"
   }
 }
