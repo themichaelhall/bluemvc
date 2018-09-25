@@ -17,7 +17,7 @@
     }
   ],
   "require": {
-    "bluemvc/bluemvc-core": "~2.0.1",
+    "bluemvc/bluemvc-core": "~2.0.2",
     "bluemvc/bluemvc-fakes": "~2.0.0",
     "bluemvc/bluemvc-twig": "~2.0.0",
     "bluemvc/bluemvc-forms": "~2.0.0",
