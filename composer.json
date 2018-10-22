@@ -19,7 +19,7 @@
   "require": {
     "bluemvc/bluemvc-core": "~2.1.0@dev",
     "bluemvc/bluemvc-fakes": "~2.1.0@dev",
-    "bluemvc/bluemvc-twig": "~2.0.0",
+    "bluemvc/bluemvc-twig": "~2.1.0@dev",
     "bluemvc/bluemvc-forms": "~2.1.0@dev",
     "bluemvc/bluemvc-api": "~2.1.0@dev"
   },
