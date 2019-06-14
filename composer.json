@@ -22,10 +22,5 @@
     "bluemvc/bluemvc-twig": "~2.1.0",
     "bluemvc/bluemvc-forms": "~2.1.0",
     "bluemvc/bluemvc-api": "~2.1.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-develop": "2.1-dev"
-    }
   }
 }
