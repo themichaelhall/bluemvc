@@ -21,7 +21,7 @@
     "bluemvc/bluemvc-fakes": "~2.1.0",
     "bluemvc/bluemvc-twig": "~2.1.0",
     "bluemvc/bluemvc-forms": "~2.1.0",
-    "bluemvc/bluemvc-api": "~2.1.0"
+    "bluemvc/bluemvc-api": "~2.2.0@dev"
   },
   "extra": {
     "branch-alias": {
