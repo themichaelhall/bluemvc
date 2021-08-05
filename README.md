@@ -4,19 +4,19 @@
 
 # BlueMvc
 
+**Note: Usage of this metapackage is deprecated. Please refer to the individual packages in your composer.json file instead.**
+
 [![License](https://poser.pugx.org/bluemvc/bluemvc/license)](https://packagist.org/packages/bluemvc/bluemvc)
-[![Latest Stable Version](https://poser.pugx.org/bluemvc/bluemvc/v/stable)](https://packagist.org/packages/bluemvc/bluemvc)
-[![Total Downloads](https://poser.pugx.org/bluemvc/bluemvc/downloads)](https://packagist.org/packages/bluemvc/bluemvc)
 
 The BlueMvc PHP framework.
 
 This framework consists of the following packages:
 
-- [bluemvc-core](https://github.com/themichaelhall/bluemvc-core) - Core functionality
-- [bluemvc-fakes](https://github.com/themichaelhall/bluemvc-fakes) - Fake core classes
-- [bluemvc-twig](https://github.com/themichaelhall/bluemvc-twig) - Twig view renderer
-- [bluemvc-forms](https://github.com/themichaelhall/bluemvc-forms) - Forms extension
-- [bluemvc-api](https://github.com/themichaelhall/bluemvc-api) - API extension
+- [bluemvc-core](https://github.com/themichaelhall/bluemvc-core) - Core functionality.
+- [bluemvc-fakes](https://github.com/themichaelhall/bluemvc-fakes) - Test-friendly fake core classes.
+- [bluemvc-twig](https://github.com/themichaelhall/bluemvc-twig) - Twig content rendering.
+- [bluemvc-forms](https://github.com/themichaelhall/bluemvc-forms) - Easy and secure form processing.
+- [bluemvc-api](https://github.com/themichaelhall/bluemvc-api) - REST API building tools.
 
 ## Requirements
 
@@ -24,8 +24,16 @@ This framework consists of the following packages:
 
 ## Install with Composer
 
+- Install only the core package
+
 ``` bash
-$ composer require bluemvc/bluemvc
+$ composer require bluemvc/bluemvc-core
+```
+
+- Install all packages
+
+``` bash
+$ composer require bluemvc/bluemvc-core bluemvc/bluemvc-fakes bluemvc/bluemvc-twig bluemvc/bluemvc-forms bluemvc/bluemvc-api
 ```
 
 ## Documentation
