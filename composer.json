@@ -17,17 +17,10 @@
     }
   ],
   "require": {
-    "bluemvc/bluemvc-core": "~2.2.0@dev",
-    "bluemvc/bluemvc-fakes": "~2.2.0@dev",
-    "bluemvc/bluemvc-twig": "~2.2.0@dev",
-    "bluemvc/bluemvc-forms": "~2.2.0@dev",
-    "bluemvc/bluemvc-api": "~2.2.0@dev"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-develop": "2.2-dev"
-    }
-  },
-  "minimum-stability": "dev",
-  "prefer-stable": true
+    "bluemvc/bluemvc-core": "^2.2",
+    "bluemvc/bluemvc-fakes": "^2.2",
+    "bluemvc/bluemvc-twig": "^2.2",
+    "bluemvc/bluemvc-forms": "^2.2",
+    "bluemvc/bluemvc-api": "^2.2"
+  }
 }
