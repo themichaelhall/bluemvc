@@ -1,3 +1,5 @@
+## Unreleased
+
 ## [2.2.0] - 2021-09-02
 - Upgraded [bluemvc-core](https://github.com/themichaelhall/bluemvc-core) dependency to 2.2
 - Upgraded [bluemvc-fakes](https://github.com/themichaelhall/bluemvc-fakes) dependency to 2.2
