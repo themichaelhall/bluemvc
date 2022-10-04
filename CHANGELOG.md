@@ -1,4 +1,5 @@
 ## Unreleased
+- Changed required PHP version to >= 8.0.
 
 ## [2.2.0] - 2021-09-02
 - Upgraded [bluemvc-core](https://github.com/themichaelhall/bluemvc-core) dependency to 2.2
