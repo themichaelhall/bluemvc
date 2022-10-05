@@ -1,4 +1,9 @@
 ## Unreleased
+- Upgraded [bluemvc-core](https://github.com/themichaelhall/bluemvc-core) dependency to 3.0
+- Upgraded [bluemvc-fakes](https://github.com/themichaelhall/bluemvc-fakes) dependency to 3.0
+- Upgraded [bluemvc-twig](https://github.com/themichaelhall/bluemvc-twig) dependency to 3.0
+- Upgraded [bluemvc-forms](https://github.com/themichaelhall/bluemvc-forms) dependency to 3.0
+- Upgraded [bluemvc-api](https://github.com/themichaelhall/bluemvc-api) dependency to 3.0
 - Changed required PHP version to >= 8.0.
 
 ## [2.2.0] - 2021-09-02
