@@ -1,4 +1,4 @@
-## Unreleased
+## [3.0.0] - 2022-10-07
 - Upgraded [bluemvc-core](https://github.com/themichaelhall/bluemvc-core) dependency to 3.0
 - Upgraded [bluemvc-fakes](https://github.com/themichaelhall/bluemvc-fakes) dependency to 3.0
 - Upgraded [bluemvc-twig](https://github.com/themichaelhall/bluemvc-twig) dependency to 3.0
@@ -54,6 +54,7 @@
 ## 1.0.0 - 2018-02-03
 - First stable revision.
 
+[3.0.0]: https://github.com/themichaelhall/bluemvc/compare/v2.2.0...v3.0.0
 [2.2.0]: https://github.com/themichaelhall/bluemvc/compare/v2.1.0...v2.2.0
 [2.1.0]: https://github.com/themichaelhall/bluemvc/compare/v2.0.4...v2.1.0
 [2.0.4]: https://github.com/themichaelhall/bluemvc/compare/v2.0.3...v2.0.4
